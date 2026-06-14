@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Areef Baba | Data Analyst, ML Engineer, AI/ML Student",
-  description:
-    "Premium ATS-optimized portfolio for Areef Baba, a Data Analyst and ML Engineer skilled in Python, SQL, Tableau, Power BI, Excel, statistics, EDA, BI, machine learning, and data storytelling.",
+   title: "Areef Baba Portfolio",
+  description: "Portfolio of Areef Baba - Data Analyst, ML Engineer and AI/ML Student",
+  
   keywords: [
     "Areef Baba",
     "Data Analyst",
